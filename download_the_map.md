@@ -28,3 +28,4 @@ Press the 'Download' button at the bottom of this window to download the map are
 
 ![](media/download_in_download_window.png)
 
+See [here](imagery.md) for getting aerial imagery.
